@@ -120,3 +120,9 @@ Welcome to my GitHub profile. I build backend services, explore data systems, an
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee" />
   </a>
 </p>
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com/bgsnorfa" target="_blank" rel="noreferrer">
+    <img src="assets/buymeacoffee-qr.png" width="160" alt="Buy Me A Coffee QR Code" />
+  </a>
+</p>
