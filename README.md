@@ -63,16 +63,16 @@ Welcome to my GitHub profile. I build backend services, explore data systems, an
 
 <p align="center">
   <a href="https://github.com/norfabagas">
-    <img src="https://github-readme-stats.vercel.app/api?username=norfabagas&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Norfa Bagas GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=norfabagas&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Norfa Bagas GitHub Stats" />
   </a>
   <a href="https://github.com/norfabagas">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norfabagas&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=norfabagas&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/norfabagas">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=norfabagas&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Norfa Bagas GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=norfabagas&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Norfa Bagas GitHub Streak" />
   </a>
 </p>
 
